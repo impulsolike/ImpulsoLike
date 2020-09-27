@@ -4,8 +4,6 @@ namespace App\ImpulsoLike;
 
 use Closure;
 
-use App\ImpulsoLike\Localization\Localization;
-
 class GlobalMiddleware
 {
 
