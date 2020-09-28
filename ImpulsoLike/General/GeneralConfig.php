@@ -1,8 +1,8 @@
 <?php
 
-namespace App\ImpulsoLike;
+namespace App\ImpulsoLike\General;
 
-class GlobalConfig
+class GeneralConfig
 {
 
     const CONFIG_FILE       = 'impulsolike_config';

@@ -1,17 +1,17 @@
 <?php
 
-namespace App\ImpulsoLike;
+namespace App\ImpulsoLike\General\Middleware;
 
 use Closure;
 
-class GlobalMiddleware
+class WebMiddleware
 {
 
     public function handle($request, Closure $next)
     {
-        
+
         /**
-         * Agrega Middlewares aquí
+         * Escribe las funciones aquí
          */
 
         return $next($request);

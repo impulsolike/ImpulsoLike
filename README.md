@@ -1,4 +1,4 @@
-# ImpusoLike Globals
+# ImpusoLike
 ### by ImpulsoLike
 
 ## Instalación
